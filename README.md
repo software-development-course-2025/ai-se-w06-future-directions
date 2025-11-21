@@ -9,7 +9,6 @@
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![Research](https://img.shields.io/badge/research-future--directions-purple)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Course](https://img.shields.io/badge/course-Software%20Development%202025-orange)
 
 <br>
 
@@ -44,8 +43,8 @@ ai-se-w06-future-directions/
 │ ├── ai_insights.py  
 │ └── utils.py  
 │  
-├── notebooks/                         # (Optional) Jupyter notebooks for demos  
-│ └── placeholder  
+├── notebooks/                         # Empty file to keep folder tracked  
+│ └── .gitkeep  
 │  
 ├── docs/                              # Main documentation pieces  
 │ ├── future-directions-analysis.md  
@@ -62,7 +61,7 @@ ai-se-w06-future-directions/
 │ ├── branding.html  
 │ └── README_assets.md  
 │  
-├── LICENSE                            # MIT
+├── LICENSE                            
 └── README.md                          # (this file)
 ```
 
